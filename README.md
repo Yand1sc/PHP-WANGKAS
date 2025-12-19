@@ -64,19 +64,19 @@ Jika Anda menggunakan XAMPP, PHP, dan MySQL sudah menjadi satu paket di dalam ap
 **HTTPS:**
 
 ```bash
-$ git clone https://github.com/fareltre/UAS-SMK43jkt
+$ git clone https://github.com/Yand1sc/PHP-WANGKAS
 ```
 
 **SSH:**
 
 ```bash
-$ git clone git@github.com/fareltre/UAS-SMK43jkt
+$ git clone git@github.com/Yand1sc/PHP-WANGKAS
 ```
 
 2. Masuk Ke Direktori Yang Sudah Di Clone
 
 ```bash
-$ cd wangkas
+$ cd PHP-WANGKAS-master
 ```
 
 3. Instal seluruh packages yang dibutuhkan.
